@@ -8,7 +8,9 @@ Este es el repositorio donde se encuentran todos los archivos de mi TFG.
   
 - El script referido a la Ingeniería del dato se corresponde al archivo jupyeter llamado "Ingenieria_dato.ipynb"
   
-- El script referido al Análisi del dato se corresponde al archivo jupyeter llamado "analisis_dato.ipynb"
+- El script referido al Análisis del dato se corresponde al archivo jupyeter llamado "analisis_dato.ipynb"
+
+- El script referido al preprocesamiento de las imágenes y al desarrollo del modelo CNN se corresponde al archivo jupyeter llamado "TFG_CNN_CancerDeMama.ipynb"
   
 - Los datos guardados tras la limpieza durante la Ingeniería del dato se encuentra en el archivo csv llamado "datos_medias_cancer.csv"
   
